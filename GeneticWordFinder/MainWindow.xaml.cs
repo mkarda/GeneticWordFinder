@@ -23,6 +23,7 @@ namespace GeneticWordFinder
         public MainWindow()
         {
             InitializeComponent();
+            //test
         }
     }
 }
